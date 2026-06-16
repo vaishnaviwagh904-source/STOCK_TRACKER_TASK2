@@ -1,0 +1,5 @@
+AAPL - 5 shares = $900
+GOOGL - 120 shares = $16800
+MSFT - 456 shares = $150480
+
+Total Investment Value = $168180
